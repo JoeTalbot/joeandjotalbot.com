@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/JoeTalbot/googleurtwitter.com.svg?branch=master)](https://travis-ci.org/JoeTalbot/googleurtwitter.com)
+[![Build Status](https://travis-ci.org/JoeTalbot/joeandjotalbot.com.svg?branch=master)](https://travis-ci.org/JoeTalbot/joeandjotalbot.com)
 
 ## This is an experiment with open source tools to upload to a web host
 
